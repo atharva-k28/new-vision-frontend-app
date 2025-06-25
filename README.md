@@ -26,9 +26,9 @@ NewVision is a mobile application built using **React Native (Expo)** that uses 
 - **Frontend**: React Native + Expo  
 - **Camera**: `expo-camera`  
 - **Speech**: `expo-speech`  
-- **OCR**: Python backend with Tesseract + Gemini API (optional cleanup)
+- **OCR**: Python backend with Tesseract with cleanup
 - **Backend**: FastAPI or Flask with `captioning` + `OCR` pipeline  
-- **Deployment**: Localhost (ngrok) or Render
+- **Deployment**: Localhost (ngrok) or Render for now
 
 ---
 
@@ -42,5 +42,5 @@ NewVision is a mobile application built using **React Native (Expo)** that uses 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/newvision-app.git
+git clone https://github.com/atharva-k28/newvision-app.git
 cd newvision-app
